@@ -1,3 +1,4 @@
+#PhotoNet MNIST
 
 Structure is input -> first layer -> second layer -> output
                 728       n_per            n_per        10
