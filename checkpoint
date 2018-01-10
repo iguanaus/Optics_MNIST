@@ -1,0 +1,2 @@
+model_checkpoint_path: "/Users/johnpeurifoy/Documents/skewl/PhotoNet_MNIST/mnist_fc_best_1000"
+all_model_checkpoint_paths: "/Users/johnpeurifoy/Documents/skewl/PhotoNet_MNIST/mnist_fc_best_1000"
